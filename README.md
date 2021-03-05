@@ -1,3 +1,15 @@
+<h4 align="center"> 
+	🚧 🚀 Em construção...  🚧
+</h4>
+
+## Features
+
+- [] Estrutura do Projeto
+- [] Criação de Grid
+- [ ] Criação de styles.css
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
