@@ -4,8 +4,8 @@
 
 ## Tasks
 
-- [] Estrutura do Projeto
-- [] Criação de Grid
+- [x] Estrutura do Projeto
+- [x] Criação de Grid
 - [ ] Criação de styles.css
 
 
